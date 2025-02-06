@@ -5,7 +5,6 @@
 #include "classified_array.h"
 #include "binary_search_tree.h"
 #include "hashing_table.h"
-#include "AVL_TREE.h"
 #include <stdlib.h>
 using namespace std;
 const int Q_SIZE=1000;//ΜΕΓΕΘΟΣ ΣΥΝΟΛΟΥ Q
